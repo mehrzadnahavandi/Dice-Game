@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+//import variable values
+@import "variables.scss";
+
+//import your mixins  
+@import "mixins.scss";
+
+//import resets
+@import "normalization.scss";
+@import "box_reset.scss";
+
+@import "page_content.scss";
+@import "screen_layout"
